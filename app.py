@@ -1,8 +1,6 @@
 import docx
 import random
 import re
-import tkinter as tk
-from tkinter import filedialog, messagebox, scrolledtext
 from datetime import datetime
 import json
 import os
